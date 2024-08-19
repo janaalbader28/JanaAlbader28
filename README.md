@@ -1,5 +1,5 @@
 ## Hi, I'm jana!
-👩🏻‍💻computer science student at IAU.
+👩🏻‍💻 computer science student at IAU.
 
 
 
