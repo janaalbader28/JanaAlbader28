@@ -1,4 +1,4 @@
-## Hi, I'm jana!
+## Hello, I'm jana!
 👩🏻‍💻 computer science student at IAU.
 
 
