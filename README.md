@@ -12,7 +12,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janaalbader28&show_icons=true&locale=en&layout=compact" alt="janaalbader28" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janaalbader28&show_icons=true&locale=en" alt="janaalbader28" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janaalbader28&" alt="janaalbader28" /></p>
