@@ -43,10 +43,12 @@
 </p>
 
 
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
+  <a href="mailto:jana.ab.albader@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/48px-Gmail_icon_%282020%29.svg.png" height="30" width="35" alt="Gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/jana-albader/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
@@ -54,6 +56,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
   </a>
 </p>
+
+
+
 
 
 
