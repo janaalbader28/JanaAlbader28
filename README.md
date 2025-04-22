@@ -1,12 +1,12 @@
-<h2 align="center">👋 Hi, I'm Jana!</h2>
+<h1 align="center">👋 Hi, I'm Jana!</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/27/13/92/271392d3af71acbd94e70bfabe6affc1.gif" width="700" alt="cozy coding" />
 </p>
 
-<hr>
 
-<h3 align="center">✨ About Me</h3>
+
+<h2 align="center">✨ About Me</h2>
 
 <p align="center">
   👩🏻‍💻 A computer science student at IAU.<br>
@@ -22,9 +22,8 @@
   • 📱 Mobile Development
 </p>
 
-<hr>
 
-<h3 align="center">💻 Languages and Tools</h3>
+<h2 align="center">💻 Languages and Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -45,9 +44,9 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<hr>
 
-<h3 align="center">🌐 Connect with Me</h3>
+
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jana-albader/" target="_blank">
@@ -58,8 +57,18 @@
   </a>
 </p>
 
-<hr>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janaalbader28&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <span style="display: inline-block; width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janaalbader28&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%" />
+  </span>
+  <span style="display: inline-block; width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=janaalbader28&show_icons=true&locale=en" alt="janaalbader28" width="100%" />
+  </span>
 </p>
+
+
+
+
+
