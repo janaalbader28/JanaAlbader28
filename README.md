@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Jana!</h2>
 
 <p align="center">
-<img src="images/cozy-coding.png" width="700" alt="cozy coding" />
+<img src="images/cozy-coding.gif" width="700" alt="cozy coding" />
 </p>
 
 <hr>
