@@ -60,11 +60,11 @@
 
 
 <p align="center">
-  <span style="display: inline-block; width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janaalbader28&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%" />
+  <span style="display: inline-block; ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janaalbader28&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </span>
-  <span style="display: inline-block; width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=janaalbader28&show_icons=true&locale=en" alt="janaalbader28" width="100%" />
+  <span style="display: inline-block; ">
+    <img src="https://github-readme-stats.vercel.app/api?username=janaalbader28&show_icons=true&locale=en" alt="janaalbader28"  />
   </span>
 </p>
 
