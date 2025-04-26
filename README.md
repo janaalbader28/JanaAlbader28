@@ -18,7 +18,7 @@
   • 🌐 Web Development<br>
   • 🔧 Full-Stack Development<br>
   • 🎨 UX/UI Design<br>
-  • 🤖 AI, ML, and Deep Learning<br>
+  • 🧠⚙️ AI, ML, and Deep Learning<br>
   • 📱 Mobile Development
 </p>
 
