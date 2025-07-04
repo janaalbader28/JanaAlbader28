@@ -1,25 +1,28 @@
-<h1 align="center">👋 Hi, I'm Jana Albader!</h1>
+<h1 align="center">👩🏻‍💻 Jana Albader</h1>
+<h3 align="center">Software Developer | AI Explorer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/27/13/92/271392d3af71acbd94e70bfabe6affc1.gif" width="700" alt="cozy coding" />
+  <img src="https://i.pinimg.com/originals/41/85/84/418584e1566e9536a8cc76d53b92fd1d.gif" width="700" alt="cozy coding" />
 </p>
 
 
 
-<h2 align="center">✨ About Me</h2>
+<h2 align="center">About Me:</h2>
 
 <p align="center">
-  👩🏻‍💻 A computer science student at IAU.<br>
-  I'm passionate about building creative and useful tech solutions.<br>
-  I’m especially interested in:
+  🎓 Computer Science graduate from Imam Abdulrahman Bin Faisal University.<br>
+  💡 Passionate about building creative, practical tech solutions that solve real problems.<br>
+  🌟 Always eager to explore new tools and turn ideas into impactful, working software.
+
 </p>
 
 <p align="center">
+  🔍 My main interests include:<br>
   • 🌐 Web Development<br>
-  • 🔧 Full-Stack Development<br>
-  • 🎨 UX/UI Design<br>
-  • 🧠⚙️ AI, ML, and Deep Learning<br>
-  • 📱 Mobile Development
+  • 🔧 Full-Stack Engineering<br>
+  • 🧠 Artificial Intelligence & Deep Learning<br>
+  • 🎨 UI/UX Design<br>
+  • 📱 Mobile App Development
 </p>
 
 
