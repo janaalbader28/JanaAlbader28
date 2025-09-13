@@ -18,7 +18,6 @@
 
 <p align="center">
   🔍 My main interests include:<br>
-  • Web Development<br>
   • Full-Stack Engineering<br>
   • Artificial Intelligence & Deep Learning<br>
   • UI/UX Design<br>
