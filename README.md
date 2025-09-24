@@ -15,11 +15,11 @@ Computer Science graduate passionate about building innovative software solution
 </p>
 
 <p align="center">
-## Core Skills
-- Full-Stack Development
-- Artificial Intelligence & Deep Learning
-- UI/UX Design
-- Mobile App Development
+**Core Skills**  
+- Full-Stack Development  
+- Artificial Intelligence & Deep Learning  
+- UI/UX Design  
+- Mobile App Development  
 </p>
 
 
