@@ -10,18 +10,16 @@
 <h2 align="center">About Me:</h2>
 
 <p align="center">
-  🎓 Computer Science graduate from Imam Abdulrahman Bin Faisal University.<br>
-  💡 Passionate about building creative, practical tech solutions that solve real problems.<br>
-  🌟 Always eager to explore new tools and turn ideas into impactful, working software.
+Computer Science graduate passionate about building innovative software solutions. Skilled in full-stack development, AI, UI/UX, and mobile apps, and always eager to learn new technologies and create impactful projects.
 
 </p>
 
 <p align="center">
-  🔍 My main interests include:<br>
-  • Full-Stack Engineering<br>
-  • Artificial Intelligence & Deep Learning<br>
-  • UI/UX Design<br>
-  • Mobile App Development
+## Core Skills
+- Full-Stack Development
+- Artificial Intelligence & Deep Learning
+- UI/UX Design
+- Mobile App Development
 </p>
 
 
