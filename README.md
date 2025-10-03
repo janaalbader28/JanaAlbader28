@@ -18,12 +18,12 @@ Computer Science graduate currently working as a **Data Analyst** and developing
 
 ## Languages, Tools & Technologies
 
+
 ![HTML](https://skillicons.dev/icons?i=html,css,js,java,cs,cpp,dotnet,php,swift,python,bootstrap,mysql,github,figma&theme=dark)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Android"/>
 <img src="https://img.icons8.com/color/512/power-bi.png" width="50" height="50" alt="Power BI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50" alt="Apache"/>
-
 
 
 ## Connect with Me
