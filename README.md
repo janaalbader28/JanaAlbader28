@@ -5,7 +5,7 @@
 
 ## About Me
 
-Computer Science graduate currently working as a **Data Analyst** and developing **full-stack side projects**. Passionate about building practical solutions using modern technologies.
+Computer Science graduate currently working as a Data Analyst and developing full-stack side projects. Passionate about building practical solutions using modern technologies.
 
 
 
