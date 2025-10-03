@@ -26,7 +26,7 @@ Computer Science graduate currently working as a **Data Analyst** and developing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50" alt="Apache"/>
 
 
-## Connect with Me
+## Contact Me
 
 
 
